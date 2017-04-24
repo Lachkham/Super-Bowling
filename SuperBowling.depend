@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1461502140 source:c:\users\sbs\documents\c projects\goto test\main.c
+	<time.h>
+	<windows.h>
+	<ctype.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1461791330 source:c:\users\sbs\documents\c projects\superbowling\main.c
+	<time.h>
+	<windows.h>
+	<stdio.h>
+
+1461573666 source:c:\users\chadi\documents\c\superbowling\main.c
+	<time.h>
+	<windows.h>
+	<stdio.h>
+
+1461791330 source:c:\users\ahmed\desktop\superbowling (8)\superbowling\main.c
+	<time.h>
+	<windows.h>
+	<stdio.h>
+

@@ -1,0 +1,50 @@
+ **************************************************************************************************
+ *                                                                                                *
+ *                                                                                                *
+ *                                                                                                *
+ *                       MP""""""`MM                                                              *
+ *                       M  mmmmm..M                                                              *
+ *                       M.      `YM dP    dP 88d888b. .d8888b. 88d888b.                          *
+ *                       MMMMMMM.  M 88    88 88'  `88 88ooood8 88'  `88                          *
+ *                       M. .MMM'  M 88.  .88 88.  .88 88.  ... 88                                *
+ *                       Mb.     .dM `88888P' 88Y888P' `88888P' dP                                *
+ *                       MMMMMMMMMMM          88                                                  *
+ *                                            dP                                                  *
+ *                   M#"""""""'M                      dP oo                                       *
+ *                   ##  mmmm. `M                     88                                          *
+ *                   #'        .M .d8888b. dP  dP  dP 88 dP 88d888b. .d8888b.                     *
+ *                   M#  MMMb.'YM 88'  `88 88  88  88 88 88 88'  `88 88'  `88                     *
+ *                   M#  MMMM'  M 88.  .88 88.88b.88' 88 88 88    88 88.  .88                     *
+ *                   M#       .;M `88888P' 8888P Y8P  dP dP dP    dP `8888P88                     *
+ *                   M#########M                                          .88                     *
+ *                                                                    d8888P                      *
+ *                                                                                                *
+ *                                                                                                *
+ *                                                                                                *
+ *                                                                                                *
+ *                                               **************************                       *
+ *                    Veillez Saisir Votre Nom : *                        *                       *
+ *                                               **************************                       *
+ *                                                                                                *
+ *                                                                                                *
+ *                    *****************************************************                       *
+ *                    *                  Comment Jouer?                   *                       *
+ *                    *                                                   *                       *
+ *                    *  o Tout le jeu se joue en appuyant sur <ESPACE>   *                       *
+ *                    *                                                   *                       *
+ *                    *  o Visez les quilles:                             *                       *
+ *                    *      La balle indique la direction du lancer.     *                       *
+ *                    *      La balle se lance toujours du milieu de la   *                       *
+ *                    *      voie dans la direction choisie.              *                       *
+ *                    *                                                   *                       *
+ *                    *  o Decider la puissance du lancer:                *                       *
+ *                    *      La jauge de  la puissance indique la  force  *                       *
+ *                    *      avec laquelle la balle va se lancer.         *                       *
+ *                    *                                                   *                       *
+ *                    *                                                   *                       *
+ *                    *****************************************************                       *
+ *                                                                                                *
+ *                [ Tapez votre nom puis appuyer sur <ESPACE> pour continuer ]                    *
+ *                                                                                                *
+ *                                                                                                *
+ **************************************************************************************************
